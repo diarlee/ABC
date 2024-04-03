@@ -82,13 +82,17 @@
 ## 🌐 개발 환경 및 기술 스택
 
 ### Front-End
-<img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white"> |
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white">
+</p>
 
 ### Back-End
+<p>
 <img src="https://img.shields.io/badge/Spring boot-6DB33F?logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/JPA-F37143?logoColor=white">
+</p>
 
 ### Database
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
@@ -97,17 +101,21 @@
 <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white">
 
 ### 버전 및 이슈관리
+<p>
 <img src="https://img.shields.io/badge/Gitlab-FC6D26?logo=gitlab&logoColor=white">
 <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white">
+</p>
 
 ### 협업 툴
 <img src="https://img.shields.io/badge/Mattermost-0058CC?logo=mattermost&logoColor=white">
 
 ### CI/CD
+<p>
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?logo=amazonec2&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon S3-569A31?logo=amazons3&logoColor=white">
 <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white">
 <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white">
+</p>
 
 ### 디자인
 <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
