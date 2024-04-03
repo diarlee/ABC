@@ -82,7 +82,7 @@
 ## 🌐 개발 환경 및 기술 스택
 
 ### Front-End
-<img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white"> |
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white">
 
